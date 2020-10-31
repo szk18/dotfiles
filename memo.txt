@@ -1,0 +1,4 @@
+ln -s ~/dotfiles/config.fish ~/.config/fish/
+
+ln -s ~/dotfiles/.xbindkeysrc ~
+ln -s ~/dotfiles/config.py ~/.config/xkeysnail/config.py
